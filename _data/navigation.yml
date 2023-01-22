@@ -2,8 +2,16 @@
   url: "/"
   side: left
 
-- title: My biography
+- title: Biography
   url: "/bio/"
+  side: left
+  
+  - title: Publications
+  url: "/pub/"
+  side: left
+  
+  - title: Working papers
+  url: "/wp/"
   side: left
 
 - title: "Templates"
