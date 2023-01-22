@@ -6,11 +6,11 @@
   url: "/bio/"
   side: left
   
-  - title: Publications
+- title: Publications
   url: "/pub/"
   side: left
   
-  - title: Working papers
+- title: Working papers
   url: "/wp/"
   side: left
 
